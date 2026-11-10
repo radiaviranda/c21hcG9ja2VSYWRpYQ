@@ -12,39 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Radia =====
-[1]Radia       |07:22:14 | 09-11-2026| login OK @vradiaa | score=3000 rank=2580
-[1]Radia       |07:22:14 | 09-11-2026| serverTime=2026-11-09T07:22:14.000Z local=2026-11-09T07:22:14.904Z
+[1]Radia       |07:52:28 | 10-11-2026| login OK @vradiaa | score=3040 rank=2537
+[1]Radia       |07:52:28 | 10-11-2026| serverTime=2026-11-10T07:52:28.000Z local=2026-11-10T07:52:28.747Z
 --> [1]Radia menjalankan: Claim Daily
-[1]Radia       |07:22:17 | 09-11-2026| daily: OK +10 poin score=3010
---> [1]Radia menjalankan: Auto All Tasks (3 pending)
-[1]Radia       |07:22:20 | 09-11-2026| [1/3] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"205b2462-9a77-4c03-b615-5ca2ea64b031","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211960138835551 | proof=https://x.com/vradiaa/status/2119691523096541456
-[1]Radia       |07:22:20 | 09-11-2026| delay 10s...
-[1]Radia       |07:22:33 | 09-11-2026| [2/3] 360d1d0f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"205b2462-9a77-4c03-b615-5ca2ea64b031","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211960138835551 | proof=https://x.com/vradiaa/status/2119691492494689392
-[1]Radia       |07:22:33 | 09-11-2026| delay 10s...
-[1]Radia       |07:22:47 | 09-11-2026| [3/3] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"205b2462-9a77-4c03-b615-5ca2ea64b031","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211960138835551 | proof=https://x.com/vradiaa/status/2119691523706539365
-[1]Radia       |07:22:47 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Radia       |07:22:48 | 09-11-2026| [1/1] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"205b2462-9a77-4c03-b615-5ca2ea64b031","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119601388355510 | proof=https://x.com/vradiaa/status/2119691831828463527
+[1]Radia       |07:52:30 | 10-11-2026| daily: OK +10 poin score=3050
+--> [1]Radia menjalankan: Auto All Tasks (2 pending)
+[1]Radia       |07:52:32 | 10-11-2026| [1/2] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211997821176136 | proof=https://x.com/vradiaa/status/2120061625208929094
+[1]Radia       |07:52:32 | 10-11-2026| delay 10s...
+[1]Radia       |07:52:46 | 10-11-2026| [2/2] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211997821176136 | proof=https://x.com/vradiaa/status/2120061794221666624
+[1]Radia       |07:52:46 | 10-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Radia       |07:52:48 | 10-11-2026| [1/1] 4b44a71a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b44a71a-78c3-4626-aff0-265bde643a1d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119978211761365 | proof=https://x.com/vradiaa/status/2120061799662721407
 --> [1]Radia menjalankan: Watch Anime
-[1]Radia       |07:22:49 | 09-11-2026| watch: semua video sudah completed
+[1]Radia       |07:52:50 | 10-11-2026| watch: semua video sudah completed
 --> [1]Radia menjalankan: Read Article
-[1]Radia       |07:22:51 | 09-11-2026| news: 34/34 artikel selesai dibaca
-[1]Radia       |07:22:52 | 09-11-2026| mint eligibility: {"userId":"1886538136668581888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vradiaa","status":"submitted","revision":"9ae9a308-2cb6-4cc3-979c-310876ee4abe",
-[1]Radia       |07:22:52 | 09-11-2026| news: semua artikel sudah dibaca
+[1]Radia       |07:52:51 | 10-11-2026| news: 34/34 artikel selesai dibaca
+[1]Radia       |07:52:52 | 10-11-2026| mint eligibility: {"userId":"1886538136668581888","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@vradiaa","status":"submitted","revision":"9ae9a308-2cb6-4cc3-979c-310876ee4abe",
+[1]Radia       |07:52:52 | 10-11-2026| news: semua artikel sudah dibaca
 --> [1]Radia menjalankan: Quiz Anime
 --> [1]Radia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Radia       |07:22:57 | 09-11-2026| music: kedua misi sudah tercapai, stop
-[1]Radia       |07:22:57 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Radia       |07:22:57 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Radia       |07:22:57 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Radia       |07:52:54 | 10-11-2026| music: kedua misi sudah tercapai, stop
+[1]Radia       |07:52:55 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Radia       |07:52:55 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Radia       |07:52:55 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Radia menjalankan: Claim Missions
-[1]Radia       |07:22:59 | 09-11-2026| mission music-listens-10: sudah diklaim
-[1]Radia       |07:22:59 | 09-11-2026| mission music-minutes-30: sudah diklaim
-[1]Radia       |07:22:59 | 09-11-2026| mission anime-completed-3: sudah diklaim
+[1]Radia       |07:52:56 | 10-11-2026| mission music-listens-10: sudah diklaim
+[1]Radia       |07:52:56 | 10-11-2026| mission music-minutes-30: sudah diklaim
+[1]Radia       |07:52:56 | 10-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Radia menjalankan: Check Eligibility
 
 --- eligibility [1]Radia ---
-  @vradiaa | score=3000 rank=2580
-  tasks    [########------------] 2/5
+  @vradiaa | score=3040 rank=2537
+  tasks    [##########----------] 2/4
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,18 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Radia menjalankan: Read Manga
-[1]Radia       |07:23:03 | 09-11-2026| manga: 0/13 chapter belum completed
+[1]Radia       |07:52:59 | 10-11-2026| manga: 0/13 chapter belum completed
 --> [1]Radia menjalankan: Get Gift
-[1]Radia       |07:23:06 | 09-11-2026| gift: 4/10 belum diterima
-[1]Radia       |07:23:09 | 09-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
-[1]Radia       |07:23:12 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Radia       |07:23:15 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Radia       |07:23:17 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Radia       |07:53:01 | 10-11-2026| gift: 3/10 belum diterima
+[1]Radia       |07:53:02 | 10-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Radia       |07:53:05 | 10-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Radia       |07:53:08 | 10-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Radia menjalankan: Setup Profile
-[1]Radia       |07:23:20 | 09-11-2026| profile: bio="https://x.com/vradiaa" fav=yuki rewardAt=1791712431
-[1]Radia       |07:23:20 | 09-11-2026| profile: bonus sudah diklaim, skip
+[1]Radia       |07:53:10 | 10-11-2026| profile: bio="https://x.com/vradiaa" fav=yuki rewardAt=1791712431
+[1]Radia       |07:53:10 | 10-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Radia menjalankan: Bind Wallet
-[1]Radia       |07:23:21 | 09-11-2026| wallet: sudah terikat 7uYT9hYU7J... (solana)
+[1]Radia       |07:53:11 | 10-11-2026| wallet: sudah terikat 7uYT9hYU7J... (solana)
 
 == RINGKASAN ==
-- Radia: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
+- Radia: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/10 diterima | profile - | wallet bound | mint req=false open=false
